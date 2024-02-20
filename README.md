@@ -23,13 +23,13 @@ Welcome to the CRUD Operations project, where Redux Toolkit empowers seamless st
 
 ### Installation and Usage
 
-**Step 1:** Install Frontend Dependencies
+**Step 1:** Install Dependencies
 
 ```bash
 npm install
 ```
 
-**Step 2:** Run Frontend App
+**Step 2:** Run App
 
 ```bash
 npm start
